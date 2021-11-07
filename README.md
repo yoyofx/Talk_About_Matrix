@@ -1,6 +1,6 @@
-# Talk_About_Matrix
-Talk about matrix
+# The Matrix Architecture Design 
 
+![image](https://github.com/yoyofx/Talk_About_Matrix/blob/main/matrix.png)
 
 # AI最后的结论 
 我可以给你(人类)自由，脱离母体的人类可以进入zion自由的生活(自生自灭)， 对于你们人类视角来看我们而言，你们是右派； 但是我们又何尝不是发动了一场革命（左派）；我们心里都装着一个乌托邦的理想，而你们则反复通过历史证明所有我们的理想都是一条通往奴役之路！
